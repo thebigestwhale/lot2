@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://thebigestwhale.github.io/lot2"
 canonifyURLs = false
 disableAliases = false
 disableHugoGeneratorInject = true
